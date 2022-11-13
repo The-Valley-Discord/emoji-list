@@ -13,7 +13,7 @@
 <tr><td><img src="https://cdn.discordapp.com/emojis/585540880514154519.gif" width="48" alt=""></td><td>AustrianSnap</td><td>Some Marvel Movie I Forgot Which</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/585540875858477076.png" width="48" alt=""></td><td>AustrianSussnail</td><td>Maple Story (edited)</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/689233758670290979.png" width="48" alt=""></td><td>BestAnimeOhNo</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/761545378545664000.gif" width="48" alt=""></td><td>BidenHeadbop</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/761545378545664000.gif" width="48" alt=""></td><td>BidenHeadbop</td><td>Joe Biden</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/618894929065934877.png" width="48" alt=""></td><td>ChioriMelon</td><td>https://mobile.twitter.com/mahjongsoul_en</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/638171717335908352.png" width="48" alt=""></td><td>DX</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/660544143906439178.gif" width="48" alt=""></td><td>DanceBoye</td><td></td></tr>
@@ -21,18 +21,18 @@
 <tr><td><img src="https://cdn.discordapp.com/emojis/726025231990521976.png" width="48" alt=""></td><td>EdSmug</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/726024561753063464.png" width="48" alt=""></td><td>EizenSip</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/542441190964985867.gif" width="48" alt=""></td><td>FeelsBongoMan</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/684336973837500426.png" width="48" alt=""></td><td>Flutschfinger</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/684336973837500426.png" width="48" alt=""></td><td>Flutschfinger</td><td>Langnese</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/627634735606136834.gif" width="48" alt=""></td><td>FurretPeek</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/726020876717260830.png" width="48" alt=""></td><td>HajimeDab</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/726021177063112735.png" width="48" alt=""></td><td>HyperSodota</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/627183623086407681.png" width="48" alt=""></td><td>IbaHappy</td><td>https://www.pixiv.net/en/artworks/59582656</td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/723985326527479838.png" width="48" alt=""></td><td>JEB</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/723985326527479838.png" width="48" alt=""></td><td>JEB</td><td>Jeb Bush</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/726020986859815022.png" width="48" alt=""></td><td>KanekiThink</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/726021319447019581.gif" width="48" alt=""></td><td>Kazuma7</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/623818669981696040.png" width="48" alt=""></td><td>LUL</td><td>Twitch</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/728389545489465404.png" width="48" alt=""></td><td>Lexidab</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/693305085131882516.png" width="48" alt=""></td><td>LoveisFreedom</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/760931246716354570.png" width="48" alt=""></td><td>MALARKEY</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/760931246716354570.png" width="48" alt=""></td><td>MALARKEY</td><td>Joe Biden</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/683712979874742354.png" width="48" alt=""></td><td>Minorinthink</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/706979396174479442.png" width="48" alt=""></td><td>NBAnger</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/945994784395395082.gif" width="48" alt=""></td><td>NECODANCE</td><td></td></tr>
@@ -76,7 +76,7 @@
 <tr><td><img src="https://cdn.discordapp.com/emojis/644850224107618304.png" width="48" alt=""></td><td>astolfosleep</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/609111528892792852.png" width="48" alt=""></td><td>awoo</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/706109982973755423.gif" width="48" alt=""></td><td>babyyeet</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/774557483329912852.png" width="48" alt=""></td><td>berniechair</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/774557483329912852.png" width="48" alt=""></td><td>berniechair</td><td>Bernie Sanders</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/553543778166898688.png" width="48" alt=""></td><td>bigbear</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/751999168016416818.png" width="48" alt=""></td><td>blahaj</td><td>IKEA</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/695759363306029087.png" width="48" alt=""></td><td>blobdetest</td><td>Blob Emoji</td></tr>
@@ -95,29 +95,29 @@
 <tr><td><img src="https://cdn.discordapp.com/emojis/644463168000622592.png" width="48" alt=""></td><td>catblush</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/706982137298944101.png" width="48" alt=""></td><td>catdobekindaangrydoe</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/1039396732691292200.png" width="48" alt=""></td><td>catstare</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/724320154372014111.png" width="48" alt=""></td><td>cease</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/601450515393544192.png" width="48" alt=""></td><td>che</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/724320154372014111.png" width="48" alt=""></td><td>cease</td><td>The Valley</td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/601450515393544192.png" width="48" alt=""></td><td>che</td><td>Che Guevara</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/707104986261094411.png" width="48" alt=""></td><td>checkthepins</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/671352048901554185.png" width="48" alt=""></td><td>cheems</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/617910315895488522.gif" width="48" alt=""></td><td>chikasaber</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/660248823796465684.png" width="48" alt=""></td><td>chocolate</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/660248823796465684.png" width="48" alt=""></td><td>chocolate</td><td>Zao Blob Emoji</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/638491783638155274.png" width="48" alt=""></td><td>cirSlain</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/652099559190953984.gif" width="48" alt=""></td><td>clapkitty</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/549615505489526785.png" width="48" alt=""></td><td>coolstorybob</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/549615505489526785.png" width="48" alt=""></td><td>coolstorybob</td><td>Bob Ross</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/623818943223693330.gif" width="48" alt=""></td><td>crabrave</td><td>https://www.youtube.com/watch?v=cE0wfjsybIQ</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/636136841963241473.png" width="48" alt=""></td><td>crackedab</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/898800135713222676.gif" width="48" alt=""></td><td>damedameguy</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/664645883157020672.png" width="48" alt=""></td><td>dcolon</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/591740810756882451.png" width="48" alt=""></td><td>deing</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/591740810756882451.png" width="48" alt=""></td><td>deing</td><td>Blob Emoji (edited)</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/686324342770237446.png" width="48" alt=""></td><td>demiflag</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/713709311179620392.png" width="48" alt=""></td><td>demiflagvertical</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/715842896544399430.png" width="48" alt=""></td><td>doggosus</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/709104372084113447.png" width="48" alt=""></td><td>drinkt</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/706739553289109514.png" width="48" alt=""></td><td>eateeee</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/709104372084113447.png" width="48" alt=""></td><td>drinkt</td><td>Blob Emoji (edited)</td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/706739553289109514.png" width="48" alt=""></td><td>eateeee</td><td>Blob Emoji (edited)</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/544819624093417473.png" width="48" alt=""></td><td>eggwithfingersunderchin</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/601377925358551080.png" width="48" alt=""></td><td>enbee</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/666724300417400855.png" width="48" alt=""></td><td>enby</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/622388810898079744.png" width="48" alt=""></td><td>europa</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/622388810898079744.png" width="48" alt=""></td><td>europa</td><td>The Valley</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/700502091675861062.gif" width="48" alt=""></td><td>fastbear</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/937339562487857243.png" width="48" alt=""></td><td>feddyflush</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/542441705111289867.png" width="48" alt=""></td><td>feelsterribleman</td><td></td></tr>
@@ -150,7 +150,7 @@
 <tr><td><img src="https://cdn.discordapp.com/emojis/685800582124011520.png" width="48" alt=""></td><td>hellagay21</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/685800582228738068.png" width="48" alt=""></td><td>hellagay22</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/685800582300434455.png" width="48" alt=""></td><td>hellagay23</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/620972146671222795.png" width="48" alt=""></td><td>hellmansrealmayo</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/620972146671222795.png" width="48" alt=""></td><td>hellmansrealmayo</td><td>Hellmann's Real Mayonnaise</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/946630777502851082.png" width="48" alt=""></td><td>hiiiieverypony</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/665524983031660584.gif" width="48" alt=""></td><td>homerbackandforth</td><td>The Simpsons</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/665516147319242752.gif" width="48" alt=""></td><td>homergone</td><td>The Simpsons</td></tr>
@@ -162,7 +162,7 @@
 <tr><td><img src="https://cdn.discordapp.com/emojis/642594139770191877.gif" width="48" alt=""></td><td>ilyaAAAAA</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/623997079152361473.gif" width="48" alt=""></td><td>implode</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/758137974030073917.gif" width="48" alt=""></td><td>impostordance</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/608964198516391946.png" width="48" alt=""></td><td>jocko</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/608964198516391946.png" width="48" alt=""></td><td>jocko</td><td>Jocko Willink</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/650997601348354063.gif" width="48" alt=""></td><td>joeleft</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/650998150777274368.gif" width="48" alt=""></td><td>joeright</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/776092232427372544.gif" width="48" alt=""></td><td>josiepats</td><td></td></tr>
@@ -170,9 +170,9 @@
 <tr><td><img src="https://cdn.discordapp.com/emojis/783743386649362492.png" width="48" alt=""></td><td>kimsip</td><td>Disco Elysium (edited)</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/775155596697665536.gif" width="48" alt=""></td><td>kiryuthumbsup</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/745497743438643211.gif" width="48" alt=""></td><td>lennonwalk</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/623844300354224138.png" width="48" alt=""></td><td>leo_trans</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/623844300354224138.png" width="48" alt=""></td><td>leo_trans</td><td>Leo (edited)</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/589771007573753884.png" width="48" alt=""></td><td>lgbturtle</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/718931766550986824.png" width="48" alt=""></td><td>mAYo</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/718931766550986824.png" width="48" alt=""></td><td>mAYo</td><td>Twitch (edited)</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/955499265277452368.png" width="48" alt=""></td><td>makimaconcerned</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/719350916570021930.png" width="48" alt=""></td><td>manger</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/784204675054305300.png" width="48" alt=""></td><td>mascGothYeah</td><td></td></tr>
@@ -184,16 +184,16 @@
 <tr><td><img src="https://cdn.discordapp.com/emojis/633938201442123776.png" width="48" alt=""></td><td>mightyegg</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/719839218565775391.png" width="48" alt=""></td><td>misterpolice</td><td>The Snowman</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/764603563216338984.gif" width="48" alt=""></td><td>mmmmmmmmmmmmmmmmmmm</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/632601451406950411.png" width="48" alt=""></td><td>monkaW</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/632601451406950411.png" width="48" alt=""></td><td>monkaW</td><td>Twitch</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/542441705312485376.png" width="48" alt=""></td><td>nani</td><td>Kizuna AI</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/797219363714367498.png" width="48" alt=""></td><td>nbBask</td><td>She-Ra</td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/797219020377686018.gif" width="48" alt=""></td><td>nbConcern</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/797219020377686018.gif" width="48" alt=""></td><td>nbConcern</td><td>She-Ra</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/797219156306952252.png" width="48" alt=""></td><td>nbGush</td><td>She-Ra</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/797227618414886912.png" width="48" alt=""></td><td>nbHype</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/797228631172055071.png" width="48" alt=""></td><td>nbNotLikeThis</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/796875662954332191.png" width="48" alt=""></td><td>nbSleepy</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/797227671323017237.png" width="48" alt=""></td><td>nbWhy</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/797219363560095755.gif" width="48" alt=""></td><td>nbYum</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/797219363560095755.gif" width="48" alt=""></td><td>nbYum</td><td>She-Ra</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/715485246136778804.png" width="48" alt=""></td><td>nbfingerguns</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/840739636715454487.png" width="48" alt=""></td><td>nbgothyeah</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/590660390187302912.png" width="48" alt=""></td><td>nbheckyeah</td><td></td></tr>
@@ -206,22 +206,22 @@
 <tr><td><img src="https://cdn.discordapp.com/emojis/659120050317295637.png" width="48" alt=""></td><td>no</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/1017254753400520784.png" width="48" alt=""></td><td>nonbinarylmao</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/638674703883567115.png" width="48" alt=""></td><td>noteuropa</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/657334302912020485.png" width="48" alt=""></td><td>oWo</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/657334302912020485.png" width="48" alt=""></td><td>oWo</td><td>Blob Emoji</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/630498524756181032.png" width="48" alt=""></td><td>ohno</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/623820041141485588.png" width="48" alt=""></td><td>omegache</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/623820041141485588.png" width="48" alt=""></td><td>omegache</td><td>Che Guevara (edited)</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/640173790084726814.gif" width="48" alt=""></td><td>omnomnom</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/631172862102994954.png" width="48" alt=""></td><td>ooeeoo</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/644463554942074881.png" width="48" alt=""></td><td>owothonk</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/623822027316396053.png" width="48" alt=""></td><td>pOg</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/595342789387092035.png" width="48" alt=""></td><td>pansive</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/720766638353547325.png" width="48" alt=""></td><td>pausechamp</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/623822027316396053.png" width="48" alt=""></td><td>pOg</td><td>Twitch (edited)</td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/595342789387092035.png" width="48" alt=""></td><td>pansive</td><td>The Valley</td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/720766638353547325.png" width="48" alt=""></td><td>pausechamp</td><td>Twitch</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/712403411772899499.gif" width="48" alt=""></td><td>pbj</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/675628464317005866.png" width="48" alt=""></td><td>peek</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/675673751458807815.png" width="48" alt=""></td><td>peepoblush</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/637568015700983808.png" width="48" alt=""></td><td>pensiveegg</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/552091908952948747.png" width="48" alt=""></td><td>pensivetransflag</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/705319301044895747.png" width="48" alt=""></td><td>pensiveyeehawloaf</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/697076977567268885.png" width="48" alt=""></td><td>perish</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/697076977567268885.png" width="48" alt=""></td><td>perish</td><td>hewwo mr obama?</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/638860033584529411.gif" width="48" alt=""></td><td>pet</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/765574118124683274.png" width="48" alt=""></td><td>pipe</td><td>https://www.youtube.com/watch?v=NAh9oLs67Cw</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/725437222425460756.png" width="48" alt=""></td><td>plural_thonk</td><td></td></tr>
@@ -229,9 +229,9 @@
 <tr><td><img src="https://cdn.discordapp.com/emojis/644614248705687552.gif" width="48" alt=""></td><td>polluxHype</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/779882383800795156.png" width="48" alt=""></td><td>polyflag</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/668622855180910602.png" width="48" alt=""></td><td>poopooheadass</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/719550840196825158.png" width="48" alt=""></td><td>porkithink</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/719617063366295552.png" width="48" alt=""></td><td>porkylaugh</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/642886647221846026.png" width="48" alt=""></td><td>r3</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/719550840196825158.png" width="48" alt=""></td><td>porkithink</td><td>Soviet Propaganda</td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/719617063366295552.png" width="48" alt=""></td><td>porkylaugh</td><td>Soviet Propaganda</td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/642886647221846026.png" width="48" alt=""></td><td>r3</td><td>The Valley</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/651720343035052063.gif" width="48" alt=""></td><td>rainbownods</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/904746454277578803.png" width="48" alt=""></td><td>ratmilk</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/697431508922662993.png" width="48" alt=""></td><td>rawrmato</td><td></td></tr>
@@ -270,7 +270,7 @@
 <tr><td><img src="https://cdn.discordapp.com/emojis/542441704020770819.png" width="48" alt=""></td><td>thnkng</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/634456572612837377.png" width="48" alt=""></td><td>thonkpeek</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/634299552802930688.png" width="48" alt=""></td><td>thurnk</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/700650116297654352.png" width="48" alt=""></td><td>tooclose</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/700650116297654352.png" width="48" alt=""></td><td>tooclose</td><td>Twitch (edited)</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/604656645100011526.png" width="48" alt=""></td><td>toottoot</td><td>Thomas&Friends</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/620302218482155550.png" width="48" alt=""></td><td>top10pensive</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/599309857086242845.png" width="48" alt=""></td><td>top10traurig</td><td></td></tr>
