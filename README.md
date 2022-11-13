@@ -44,11 +44,11 @@
 <tr><td><img src="https://cdn.discordapp.com/emojis/610562016435765268.png" width="48" alt=""></td><td>PepoHyper</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/618845974416326657.png" width="48" alt=""></td><td>PillowNo</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/618845972696399874.png" width="48" alt=""></td><td>PillowYes</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/562004781455900683.png" width="48" alt=""></td><td>Pog</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/562004781455900683.png" width="48" alt=""></td><td>Pog</td><td>Twitch</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/618845975741595652.png" width="48" alt=""></td><td>RemEhehe</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/542441704628682773.png" width="48" alt=""></td><td>RemThink</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/633980799162646548.png" width="48" alt=""></td><td>SachiScared</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/698831108615176263.png" width="48" alt=""></td><td>SadChamp</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/698831108615176263.png" width="48" alt=""></td><td>SadChamp</td><td>Twitch</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/712401917808214146.gif" width="48" alt=""></td><td>SophiaDance</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/784409973689810974.gif" width="48" alt=""></td><td>Sweetcatch</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/618846763775950862.png" width="48" alt=""></td><td>TenshiStop</td><td></td></tr>
@@ -78,14 +78,14 @@
 <tr><td><img src="https://cdn.discordapp.com/emojis/706109982973755423.gif" width="48" alt=""></td><td>babyyeet</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/774557483329912852.png" width="48" alt=""></td><td>berniechair</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/553543778166898688.png" width="48" alt=""></td><td>bigbear</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/751999168016416818.png" width="48" alt=""></td><td>blahaj</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/695759363306029087.png" width="48" alt=""></td><td>blobdetest</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/695759140857053194.png" width="48" alt=""></td><td>blobenjoy</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/566217519463923743.png" width="48" alt=""></td><td>blobhyperthink</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/646467319790436363.png" width="48" alt=""></td><td>blobpat</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/644850264863670297.png" width="48" alt=""></td><td>blobtea</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/701028298217619473.png" width="48" alt=""></td><td>blobultrajoy</td><td></td></tr>
-<tr><td><img src="https://cdn.discordapp.com/emojis/737823589784485898.gif" width="48" alt=""></td><td>blobwork</td><td></td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/751999168016416818.png" width="48" alt=""></td><td>blahaj</td><td>IKEA</td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/695759363306029087.png" width="48" alt=""></td><td>blobdetest</td><td>Blob Emoji</td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/695759140857053194.png" width="48" alt=""></td><td>blobenjoy</td><td>Blob Emoji</td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/566217519463923743.png" width="48" alt=""></td><td>blobhyperthink</td><td>Blob Emoji</td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/646467319790436363.png" width="48" alt=""></td><td>blobpat</td><td>Blob Emoji</td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/644850264863670297.png" width="48" alt=""></td><td>blobtea</td><td>Blob Emoji</td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/701028298217619473.png" width="48" alt=""></td><td>blobultrajoy</td><td>Blob Emoji</td></tr>
+<tr><td><img src="https://cdn.discordapp.com/emojis/737823589784485898.gif" width="48" alt=""></td><td>blobwork</td><td>Blob Emoji</td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/689775163612332176.gif" width="48" alt=""></td><td>bmobongo</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/689775164438609942.gif" width="48" alt=""></td><td>bmodance</td><td></td></tr>
 <tr><td><img src="https://cdn.discordapp.com/emojis/752838442827644958.png" width="48" alt=""></td><td>breadbug</td><td></td></tr>
